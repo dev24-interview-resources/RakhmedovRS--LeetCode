@@ -208,4 +208,40 @@ public final class Helper {
     public static boolean isPowerOf2(int num) {
         return (num & (num - 1)) == 0;
     }
+
+	//Booth's algorithm
+	public static String canonical(String s) {
+		int n = s.length();
+		if (n <= 1) return s;
+
+		String t = s + s;
+		int[] f = new int[2 * n];
+		Arrays.fill(f, -1);
+
+		int k = 0;
+
+		for (int j = 1; j < 2 * n; j++) {
+			int i = f[j - k - 1];
+
+			while (i != -1 && t.charAt(j) != t.charAt(k + i + 1)) {
+				if (t.charAt(j) < t.charAt(k + i + 1)) {
+					k = j - i - 1;
+				}
+				i = f[i];
+			}
+
+			if (i == -1 && t.charAt(j) != t.charAt(k)) {
+				if (t.charAt(j) < t.charAt(k)) {
+					k = j;
+				}
+				f[j - k] = -1;
+			} else {
+				f[j - k] = i + 1;
+			}
+
+			if (k >= n) break;
+		}
+
+		return t.substring(k, k + n);
+	}
 }

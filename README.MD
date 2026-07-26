@@ -1,6 +1,6 @@
 ![Logo](https://github.com/RakhmedovRS/LeetCode/blob/master/src/main/resources/LeetCodeLogo.png)
 ### This file was created automatically by [Collector.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/common/Collector.java)
-Count of solved tasks: 2234
+Count of solved tasks: 2235
 <details>
 <summary>Table of all solved non-premium tasks</summary>
 <p>
@@ -2036,7 +2036,8 @@ Count of solved tasks: 2234
 |3996|Easy|[Even Number of Knight Moves](https://leetcode.com/problems/even-number-of-knight-moves/description/)|[Even Number of Knight Moves.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/EvenNumberOfKnightMoves.java)|
 |3997|Medium|[Count Dominant Nodes in a Binary Tree](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/description/)|[Count Dominant Nodes in a Binary Tree.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountDominantNodesInBinaryTree.java)|
 |3998|Medium|[Transform Binary String Using Subsequence Sort](https://leetcode.com/problems/transform-binary-string-using-subsequence-sort/description/)|[Transform Binary String Using Subsequence Sort.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/TransformBinaryStringUsingSubsequenceSort.java)|
-|4000|Easy|[Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum/description/)|[Largest Integer With Given Digit Sum.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/LargestIntegerWithGivenDigitSum.java)|</p>
+|4000|Easy|[Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum/description/)|[Largest Integer With Given Digit Sum.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/LargestIntegerWithGivenDigitSum.java)|
+|4001|Medium|[Aggregate Two Time Series](https://leetcode.com/problems/aggregate-two-time-series/description/)|[Aggregate Two Time Series.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/AggregateTwoTimeSeries.java)|</p>
 </details>
 
 <details>
@@ -3561,7 +3562,8 @@ Count of solved tasks: 2234
 |3977|Medium|[Minimum Removals to Achieve Target XOR](https://leetcode.com/problems/minimum-removals-to-achieve-target-xor/description/)|[Minimum Removals to Achieve Target XOR.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumRemovalsToAchieveTargetXOR.java)|
 |3987|Medium|[Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/description/)|[Minimum Total Cost to Process All Elements.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumTotalCostToProcessAllElements.java)|
 |3997|Medium|[Count Dominant Nodes in a Binary Tree](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/description/)|[Count Dominant Nodes in a Binary Tree.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountDominantNodesInBinaryTree.java)|
-|3998|Medium|[Transform Binary String Using Subsequence Sort](https://leetcode.com/problems/transform-binary-string-using-subsequence-sort/description/)|[Transform Binary String Using Subsequence Sort.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/TransformBinaryStringUsingSubsequenceSort.java)|</p>
+|3998|Medium|[Transform Binary String Using Subsequence Sort](https://leetcode.com/problems/transform-binary-string-using-subsequence-sort/description/)|[Transform Binary String Using Subsequence Sort.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/TransformBinaryStringUsingSubsequenceSort.java)|
+|4001|Medium|[Aggregate Two Time Series](https://leetcode.com/problems/aggregate-two-time-series/description/)|[Aggregate Two Time Series.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/AggregateTwoTimeSeries.java)|</p>
 </details>
 
 <details>

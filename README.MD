@@ -1,6 +1,6 @@
 ![Logo](https://github.com/RakhmedovRS/LeetCode/blob/master/src/main/resources/LeetCodeLogo.png)
 ### This file was created automatically by [Collector.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/common/Collector.java)
-Count of solved tasks: 2231
+Count of solved tasks: 2232
 <details>
 <summary>Table of all solved non-premium tasks</summary>
 <p>
@@ -2033,7 +2033,8 @@ Count of solved tasks: 2231
 |3986|Easy|[Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/description/)|[Number of Elapsed Seconds Between Two Times.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/NumberOfElapsedSecondsBetweenTwoTimes.java)|
 |3987|Medium|[Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/description/)|[Minimum Total Cost to Process All Elements.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumTotalCostToProcessAllElements.java)|
 |3989|Hard|[Maximum Consistent Columns in a Grid](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/description/)|[Maximum Consistent Columns in a Grid.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MaximumConsistentColumnsInGrid.java)|
-|3996|Easy|[Even Number of Knight Moves](https://leetcode.com/problems/even-number-of-knight-moves/description/)|[Even Number of Knight Moves.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/EvenNumberOfKnightMoves.java)|</p>
+|3996|Easy|[Even Number of Knight Moves](https://leetcode.com/problems/even-number-of-knight-moves/description/)|[Even Number of Knight Moves.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/EvenNumberOfKnightMoves.java)|
+|3997|Medium|[Count Dominant Nodes in a Binary Tree](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/description/)|[Count Dominant Nodes in a Binary Tree.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountDominantNodesInBinaryTree.java)|</p>
 </details>
 
 <details>
@@ -3555,7 +3556,8 @@ Count of solved tasks: 2231
 |3952|Medium|[Maximum Total Value of Covered Indices](https://leetcode.com/problems/maximum-total-value-of-covered-indices/description/)|[Maximum Total Value of Covered Indices.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MaximumTotalValueOfCoveredIndices.java)|
 |3955|Medium|[Valid Binary Strings With Cost Limit](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/description/)|[Valid Binary Strings With Cost Limit.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/ValidBinaryStringsWithCostLimit.java)|
 |3977|Medium|[Minimum Removals to Achieve Target XOR](https://leetcode.com/problems/minimum-removals-to-achieve-target-xor/description/)|[Minimum Removals to Achieve Target XOR.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumRemovalsToAchieveTargetXOR.java)|
-|3987|Medium|[Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/description/)|[Minimum Total Cost to Process All Elements.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumTotalCostToProcessAllElements.java)|</p>
+|3987|Medium|[Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/description/)|[Minimum Total Cost to Process All Elements.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumTotalCostToProcessAllElements.java)|
+|3997|Medium|[Count Dominant Nodes in a Binary Tree](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/description/)|[Count Dominant Nodes in a Binary Tree.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountDominantNodesInBinaryTree.java)|</p>
 </details>
 
 <details>

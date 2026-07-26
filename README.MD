@@ -1,6 +1,6 @@
 ![Logo](https://github.com/RakhmedovRS/LeetCode/blob/master/src/main/resources/LeetCodeLogo.png)
 ### This file was created automatically by [Collector.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/common/Collector.java)
-Count of solved tasks: 2235
+Count of solved tasks: 2236
 <details>
 <summary>Table of all solved non-premium tasks</summary>
 <p>
@@ -2037,7 +2037,8 @@ Count of solved tasks: 2235
 |3997|Medium|[Count Dominant Nodes in a Binary Tree](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/description/)|[Count Dominant Nodes in a Binary Tree.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountDominantNodesInBinaryTree.java)|
 |3998|Medium|[Transform Binary String Using Subsequence Sort](https://leetcode.com/problems/transform-binary-string-using-subsequence-sort/description/)|[Transform Binary String Using Subsequence Sort.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/TransformBinaryStringUsingSubsequenceSort.java)|
 |4000|Easy|[Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum/description/)|[Largest Integer With Given Digit Sum.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/LargestIntegerWithGivenDigitSum.java)|
-|4001|Medium|[Aggregate Two Time Series](https://leetcode.com/problems/aggregate-two-time-series/description/)|[Aggregate Two Time Series.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/AggregateTwoTimeSeries.java)|</p>
+|4001|Medium|[Aggregate Two Time Series](https://leetcode.com/problems/aggregate-two-time-series/description/)|[Aggregate Two Time Series.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/AggregateTwoTimeSeries.java)|
+|4003|Hard|[Minimum Cost Path with Alternating Directions III](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-iii/description/)|[Minimum Cost Path with Alternating Directions III.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumCostPathWithAlternatingDirectionsIII.java)|</p>
 </details>
 
 <details>
@@ -3690,7 +3691,8 @@ Count of solved tasks: 2235
 |3620|Hard|[Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/description/)|[Network Recovery Pathways.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/NetworkRecoveryPathways.java)|
 |3836|Hard|[Maximum Score Using Exactly K Pairs](https://leetcode.com/problems/maximum-score-using-exactly-k-pairs/description/)|[Maximum Score Using Exactly K Pairs.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MaximumScoreUsingExactlyKPairs.java)|
 |3864|Hard|[Minimum Cost to Partition a Binary String](https://leetcode.com/problems/minimum-cost-to-partition-a-binary-string/description/)|[Minimum Cost to Partition a Binary String.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumCostToPartitionBinaryString.java)|
-|3989|Hard|[Maximum Consistent Columns in a Grid](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/description/)|[Maximum Consistent Columns in a Grid.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MaximumConsistentColumnsInGrid.java)|</p>
+|3989|Hard|[Maximum Consistent Columns in a Grid](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/description/)|[Maximum Consistent Columns in a Grid.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MaximumConsistentColumnsInGrid.java)|
+|4003|Hard|[Minimum Cost Path with Alternating Directions III](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-iii/description/)|[Minimum Cost Path with Alternating Directions III.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumCostPathWithAlternatingDirectionsIII.java)|</p>
 </details>
 
 <details>

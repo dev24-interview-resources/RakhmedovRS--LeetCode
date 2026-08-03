@@ -1,6 +1,6 @@
 ![Logo](https://github.com/RakhmedovRS/LeetCode/blob/master/src/main/resources/LeetCodeLogo.png)
 ### This file was created automatically by [Collector.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/common/Collector.java)
-Count of solved tasks: 2237
+Count of solved tasks: 2238
 <details>
 <summary>Table of all solved non-premium tasks</summary>
 <p>
@@ -2039,7 +2039,8 @@ Count of solved tasks: 2237
 |4000|Easy|[Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum/description/)|[Largest Integer With Given Digit Sum.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/LargestIntegerWithGivenDigitSum.java)|
 |4001|Medium|[Aggregate Two Time Series](https://leetcode.com/problems/aggregate-two-time-series/description/)|[Aggregate Two Time Series.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/AggregateTwoTimeSeries.java)|
 |4003|Hard|[Minimum Cost Path with Alternating Directions III](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-iii/description/)|[Minimum Cost Path with Alternating Directions III.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumCostPathWithAlternatingDirectionsIII.java)|
-|4010|Easy|[Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd/description/)|[Maximize Pair Strength Using GCD.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MaximizePairStrengthUsingGCD.java)|</p>
+|4010|Easy|[Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd/description/)|[Maximize Pair Strength Using GCD.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MaximizePairStrengthUsingGCD.java)|
+|4011|Medium|[Count Subarrays With Even Odd Ratio I](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-i/description/)|[Count Subarrays With Even Odd Ratio I.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountSubarraysWithEvenOddRatioI.java)|</p>
 </details>
 
 <details>
@@ -3566,7 +3567,8 @@ Count of solved tasks: 2237
 |3987|Medium|[Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/description/)|[Minimum Total Cost to Process All Elements.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumTotalCostToProcessAllElements.java)|
 |3997|Medium|[Count Dominant Nodes in a Binary Tree](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/description/)|[Count Dominant Nodes in a Binary Tree.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountDominantNodesInBinaryTree.java)|
 |3998|Medium|[Transform Binary String Using Subsequence Sort](https://leetcode.com/problems/transform-binary-string-using-subsequence-sort/description/)|[Transform Binary String Using Subsequence Sort.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/TransformBinaryStringUsingSubsequenceSort.java)|
-|4001|Medium|[Aggregate Two Time Series](https://leetcode.com/problems/aggregate-two-time-series/description/)|[Aggregate Two Time Series.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/AggregateTwoTimeSeries.java)|</p>
+|4001|Medium|[Aggregate Two Time Series](https://leetcode.com/problems/aggregate-two-time-series/description/)|[Aggregate Two Time Series.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/AggregateTwoTimeSeries.java)|
+|4011|Medium|[Count Subarrays With Even Odd Ratio I](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-i/description/)|[Count Subarrays With Even Odd Ratio I.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountSubarraysWithEvenOddRatioI.java)|</p>
 </details>
 
 <details>

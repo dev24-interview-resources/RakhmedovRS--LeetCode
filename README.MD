@@ -1,6 +1,6 @@
 ![Logo](https://github.com/RakhmedovRS/LeetCode/blob/master/src/main/resources/LeetCodeLogo.png)
 ### This file was created automatically by [Collector.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/common/Collector.java)
-Count of solved tasks: 2247
+Count of solved tasks: 2248
 <details>
 <summary>Table of all solved non-premium tasks</summary>
 <p>
@@ -2049,7 +2049,8 @@ Count of solved tasks: 2247
 |4039|Medium|[Sum of Decoded Numbers](https://leetcode.com/problems/sum-of-decoded-numbers/description/)|[Sum of Decoded Numbers.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/SumOfDecodedNumbers.java)|
 |4040|Medium|[Minimum Operations to Form Subset Sum I](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-i/description/)|[Minimum Operations to Form Subset Sum I.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumOperationsToFormSubsetSumI.java)|
 |4043|Easy|[Count Rotations With Exactly K Equal Adjacent Pairs](https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/description/)|[Count Rotations With Exactly K Equal Adjacent Pairs.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountRotationsWithExactlyKEqualAdjacentPairs.java)|
-|4044|Medium|[Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/description/)|[Count Good Cyclic Rotations.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountGoodCyclicRotations.java)|</p>
+|4044|Medium|[Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/description/)|[Count Good Cyclic Rotations.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountGoodCyclicRotations.java)|
+|4045|Medium|[Count Robot Groups](https://leetcode.com/problems/count-robot-groups/description/)|[Count Robot Groups.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountRobotGroups.java)|</p>
 </details>
 
 <details>
@@ -3586,7 +3587,8 @@ Count of solved tasks: 2247
 |4016|Medium|[Maximum Area of Two Non-Overlapping Square Submatrices](https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices/description/)|[Maximum Area of Two Non-Overlapping Square Submatrices.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MaximumAreaOfTwoNonOverlappingSquareSubmatrices.java)|
 |4039|Medium|[Sum of Decoded Numbers](https://leetcode.com/problems/sum-of-decoded-numbers/description/)|[Sum of Decoded Numbers.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/SumOfDecodedNumbers.java)|
 |4040|Medium|[Minimum Operations to Form Subset Sum I](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-i/description/)|[Minimum Operations to Form Subset Sum I.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumOperationsToFormSubsetSumI.java)|
-|4044|Medium|[Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/description/)|[Count Good Cyclic Rotations.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountGoodCyclicRotations.java)|</p>
+|4044|Medium|[Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/description/)|[Count Good Cyclic Rotations.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountGoodCyclicRotations.java)|
+|4045|Medium|[Count Robot Groups](https://leetcode.com/problems/count-robot-groups/description/)|[Count Robot Groups.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountRobotGroups.java)|</p>
 </details>
 
 <details>

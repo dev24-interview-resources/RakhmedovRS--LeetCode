@@ -1,6 +1,6 @@
 ![Logo](https://github.com/RakhmedovRS/LeetCode/blob/master/src/main/resources/LeetCodeLogo.png)
 ### This file was created automatically by [Collector.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/common/Collector.java)
-Count of solved tasks: 2250
+Count of solved tasks: 2251
 <details>
 <summary>Table of all solved non-premium tasks</summary>
 <p>
@@ -2052,7 +2052,8 @@ Count of solved tasks: 2250
 |4044|Medium|[Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/description/)|[Count Good Cyclic Rotations.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountGoodCyclicRotations.java)|
 |4045|Medium|[Count Robot Groups](https://leetcode.com/problems/count-robot-groups/description/)|[Count Robot Groups.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountRobotGroups.java)|
 |4046|Medium|[Minimum Cost Path With At Most K Turns](https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/description/)|[Minimum Cost Path With At Most K Turns.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumCostPathWithAtMostKTurns.java)|
-|4052|Easy|[Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns/description/)|[Cyclically Shift Rows and Columns.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CyclicallyShiftRowsAndColumns.java)|</p>
+|4052|Easy|[Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns/description/)|[Cyclically Shift Rows and Columns.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CyclicallyShiftRowsAndColumns.java)|
+|4053|Medium|[Minimum Operations to Make Every Element Palindromic](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/description/)|[Minimum Operations to Make Every Element Palindromic.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumOperationsToMakeEveryElementPalindromic.java)|</p>
 </details>
 
 <details>
@@ -3592,7 +3593,8 @@ Count of solved tasks: 2250
 |4040|Medium|[Minimum Operations to Form Subset Sum I](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-i/description/)|[Minimum Operations to Form Subset Sum I.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumOperationsToFormSubsetSumI.java)|
 |4044|Medium|[Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/description/)|[Count Good Cyclic Rotations.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountGoodCyclicRotations.java)|
 |4045|Medium|[Count Robot Groups](https://leetcode.com/problems/count-robot-groups/description/)|[Count Robot Groups.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountRobotGroups.java)|
-|4046|Medium|[Minimum Cost Path With At Most K Turns](https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/description/)|[Minimum Cost Path With At Most K Turns.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumCostPathWithAtMostKTurns.java)|</p>
+|4046|Medium|[Minimum Cost Path With At Most K Turns](https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/description/)|[Minimum Cost Path With At Most K Turns.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumCostPathWithAtMostKTurns.java)|
+|4053|Medium|[Minimum Operations to Make Every Element Palindromic](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/description/)|[Minimum Operations to Make Every Element Palindromic.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumOperationsToMakeEveryElementPalindromic.java)|</p>
 </details>
 
 <details>

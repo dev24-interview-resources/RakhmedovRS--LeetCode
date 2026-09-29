@@ -1,6 +1,6 @@
 ![Logo](https://github.com/RakhmedovRS/LeetCode/blob/master/src/main/resources/LeetCodeLogo.png)
 ### This file was created automatically by [Collector.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/common/Collector.java)
-Count of solved tasks: 2251
+Count of solved tasks: 2252
 <details>
 <summary>Table of all solved non-premium tasks</summary>
 <p>
@@ -1374,6 +1374,7 @@ Count of solved tasks: 2251
 |2264|Easy|[Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)|[Largest 3-Same-Digit Number in String.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/Largest3SameDigitNumberInString.java)|
 |2265|Medium|[Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)|[Count Nodes Equal to Average of Subtree.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountNodesEqualToAverageOfSubtree.java)|
 |2266|Medium|[Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/)|[Count Number of Texts.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountNumberOfTexts.java)|
+|2267|Hard|[Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/description/)|[Check if There Is a Valid Parentheses String Path.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CheckIfThereIsValidParenthesesStringPath.java)|
 |2269|Easy|[Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)|[Find the K-Beauty of a Number.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/FindTheKBeautyOfNumber.java)|
 |2270|Medium|[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/)|[Number of Ways to Split Array.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/NumberOfWaysToSplitArray.java)|
 |2271|Medium|[Maximum White Tiles Covered by a Carpet](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/)|[Maximum White Tiles Covered by a Carpet.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MaximumWhiteTilesCoveredByCarpet.java)|
@@ -3698,6 +3699,7 @@ Count of solved tasks: 2251
 |1879|Hard|[Minimum XOR Sum of Two Arrays](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/)|[Minimum XOR Sum of Two Arrays.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumXORSumOfTwoArrays.java)|
 |1912|Hard|[Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/description/)|[Design Movie Rental System.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/DesignMovieRentalSystem.java)|
 |2019|Hard|[Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/)|[Sum of k-Mirror Numbers.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/SumOfKMirrorNumbers.java)|
+|2267|Hard|[Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/description/)|[Check if There Is a Valid Parentheses String Path.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CheckIfThereIsValidParenthesesStringPath.java)|
 |2290|Hard|[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)|[Minimum Obstacle Removal to Reach Corner.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumObstacleRemovalToReachCorner.java)|
 |2344|Hard|[Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)|[Minimum Deletions to Make Array Divisible.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/MinimumDeletionsToMakeArrayDivisible.java)|
 |2376|Hard|[Count Special Integers](https://leetcode.com/problems/count-special-integers/)|[Count Special Integers.java](https://github.com/RakhmedovRS/LeetCode/tree/master/src/main/java/tasks/CountSpecialIntegers.java)|
